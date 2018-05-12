@@ -1,0 +1,54 @@
+_repo: The-House-with-the-Mezzanine-and-Other-Stories_27411
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Cannan, Gilbert
+    birthdate: 1884
+    deathdate: &id001 1955
+    gutenberg_agent_id: '2603'
+    url: http://www.gutenberg.org/2009/agents/2603
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Cannan
+  - agent_name: Koteliansky, S. S. (Samuel Solomonovitch)
+    aliases:
+    - Koteliansky, S.S.
+    - Котелянский, Самуел Соломонович
+    - Koteliansky, Samuel Solomonovich
+    - Koteliansky, Samuel Solomonovitch
+    birthdate: 1882
+    deathdate: *id001
+    gutenberg_agent_id: '4566'
+    url: http://www.gutenberg.org/2009/agents/4566
+    wikipedia: http://en.wikipedia.org/wiki/S._S._Koteliansky
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Чехов, Антон Павлович
+    - Chekov, Anton Pavlovich
+    - Tchekhov, Anton
+    - Tshehov, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2008-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27411'
+  lccn: '17022089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PG'
+tableOfContents: The house with the mezzanine -- Typhus -- Goosberries -- In exile
+  -- The lady with the toy dog -- Goussiev -- My life.
+title: The House with the Mezzanine and Other Stories
+url: http://www.gutenberg.org/ebooks/27411
