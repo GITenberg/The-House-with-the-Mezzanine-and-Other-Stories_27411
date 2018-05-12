@@ -4,7 +4,7 @@ contributor:
   translators:
   - agent_name: Cannan, Gilbert
     birthdate: 1884
-    deathdate: &id001 1955
+    deathdate: 1955
     gutenberg_agent_id: '2603'
     url: http://www.gutenberg.org/2009/agents/2603
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_Cannan
@@ -15,7 +15,7 @@ contributor:
     - Koteliansky, Samuel Solomonovich
     - Koteliansky, Samuel Solomonovitch
     birthdate: 1882
-    deathdate: *id001
+    deathdate: 1955
     gutenberg_agent_id: '4566'
     url: http://www.gutenberg.org/2009/agents/4566
     wikipedia: http://en.wikipedia.org/wiki/S._S._Koteliansky
@@ -36,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/708
     wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27411#The-House-with-the-Mezzanine-and-Other-Stories
 gutenberg_issued: '2008-12-04'
 gutenberg_type: Text
 identifiers:
